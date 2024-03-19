@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512241).
-* Наставник: `Неизвестно`.
+* Студент: [Керносова Марина](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512241).
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
 
 ---
 
